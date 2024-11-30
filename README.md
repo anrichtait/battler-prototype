@@ -15,8 +15,9 @@ List of things I will need to implement for the prototype to be considered "comp
 
 # Resources
 ## Assets
-Assets in this project are either made by myself or are freely distributed.
+Assets in this project are either made by myself or are freely distributed. Sprites and tiles will be 64x64 pixels. Currently I am using a fan made sprite sheet of William from Eastward as the player sprite. I will eventually make my own sprites but right now I'm focusing on the programming and design aspects of the prototype.
 
 ## Some of the current art:
 ![Demo Monster](assets/purple_alien.png)
+_This is the first asset I made myself for the game so that's cool I guess_
 
