@@ -1,0 +1,78 @@
+{
+    "1": {
+        "name": "FireMon",
+        "type": "Stellar",
+        "hp": 100,
+        "pys_attack": 20,
+        "spl_attack": 20,
+        "pys_defense": 10,
+        "spl_defense": 10,
+        "speed": 15,
+		"crit_chance": 5,
+        "moves": [
+            {"name": "Fireball", "power": 30, "accuracy": 0.9},
+            {"name": "Ember", "power": 15, "accuracy": 0.95}
+        ]
+    },
+    "2": {
+        "name": "WaterMon",
+        "type": "Water",
+        "hp": 90,
+        "attack": 18,
+        "defense": 12,
+        "speed": 14,
+        "moves": [
+            {"name": "Splash", "power": 10, "accuracy": 1.0},
+            {"name": "Aqua Jet", "power": 25, "accuracy": 0.85}
+        ]
+    }
+    "3": {
+        "name": "WaterMon",
+        "type": "Water",
+        "hp": 90,
+        "attack": 18,
+        "defense": 12,
+        "speed": 14,
+        "moves": [
+            {"name": "Splash", "power": 10, "accuracy": 1.0},
+            {"name": "Aqua Jet", "power": 25, "accuracy": 0.85}
+        ]
+    }
+    "4": {
+        "name": "WaterMon",
+        "type": "Water",
+        "hp": 90,
+        "attack": 18,
+        "defense": 12,
+        "speed": 14,
+        "moves": [
+            {"name": "Splash", "power": 10, "accuracy": 1.0},
+            {"name": "Aqua Jet", "power": 25, "accuracy": 0.85}
+        ]
+    }
+    "5": {
+        "name": "WaterMon",
+        "type": "Water",
+        "hp": 90,
+        "attack": 18,
+        "defense": 12,
+        "speed": 14,
+        "moves": [
+            {"name": "Splash", "power": 10, "accuracy": 1.0},
+            {"name": "Aqua Jet", "power": 25, "accuracy": 0.85}
+        ]
+    }
+    "6": {
+        "name": "WaterMon",
+        "type": "Water",
+        "hp": 90,
+        "attack": 18,
+        "defense": 12,
+        "speed": 14,
+        "moves": [
+            {"name": "Splash", "power": 10, "accuracy": 1.0},
+            {"name": "Aqua Jet", "power": 25, "accuracy": 0.85}
+        ]
+    }
+}
+

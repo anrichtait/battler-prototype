@@ -82,10 +82,16 @@ async fn main() {
         william.update();
 
         root_ui().label(None, "");
-        if root_ui().button(None, "Push me") {
-            println!("pushed");
+        if root_ui().button(None, "Start Battle Simulator") {
+            println!("Starting Battle Simulator");
+            start_battle_sim();
         }
 
         next_frame().await;
     }
+}
+
+fn start_battle_sim() {
+
+    
 }
