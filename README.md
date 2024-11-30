@@ -18,5 +18,5 @@ List of things I will need to implement for the prototype to be considered "comp
 Assets in this project are either made by myself or are freely distributed.
 
 ## Some of the current art:
-
+![Demo Monster](assets/purple_alien.png)
 
